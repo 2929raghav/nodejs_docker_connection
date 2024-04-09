@@ -15,3 +15,5 @@ Connectivity of docker and nodejs
 **docker tag nodejsdockerapp:v1 2929raghav/nodejsdockerapp:v1**
 
 **docker push 2929raghav/nodejsdockerapp:v1**
+
+**docker pull 2929raghav/nodejsdockerapp:v1**
